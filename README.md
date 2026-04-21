@@ -39,7 +39,7 @@ I build full-stack things. Sometimes they work on the first try. *(They don't.)*
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder&bgColor=%230D1117&qColor=%2300D9FF&aColor=%23c9d1d9&codeColor=%23FF6B6B" width="100%"/>
+<img src="[https://readme-jokes.vercel.app/api?theme=dark&hideBorder&bgColor=%230D1117&qColor=%2300D9FF&aColor=%23c9d1d9&codeColor=%23FF6B6B](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d230/live/c74c5ad0-c398-11ef-97da-8f2904a0f210.jpg)" width="100%"/>
 
 **🚨 Dev Confessions:**
 
