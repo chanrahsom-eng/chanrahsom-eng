@@ -161,11 +161,7 @@ Step 7: No idea why. Ship it anyway.  🚀
 <img src="https://octodex.github.com/images/maxtocat.gif" width="80" title="Me after fixing the bug"/>
 
 </td>
-<td width="50%" align="center" valign="middle">
 
-<a href="https://www.youtube.com/@ស្រ៊ុនសុចិត្រា"><img src="https://youtube-stats-card.vercel.app/api?channelid=UCVrb7Smv71TOgCBLn8GmJZg&layout=extruded&theme=dark" width="100%"/></a>
-
-</td>
 </tr>
 </table>
 
